@@ -1,3 +1,36 @@
 <resources>
     <string name="app_name">BJPCampaignAR</string>
+
+
+    <string name="hover_text_one">I am a boy from China, who wants to make a world famous app, sorry,
+        I forgot this is only a text to test the effect of the content situation...</string>
+
+    <string name="hover_text_two">I am a boy from China, who wants to make a world famous app, sorry,
+        I forgot this is only a text to test the effect of the content situation...</string>
+
+    <string name="hover_text_three">I am a boy from China, who wants to make a world famous app, sorry,
+        I forgot this is only a text to test the effect of the content situation...</string>
+
+    <string name="hover_text_four">I am a boy from China, who wants to make a world famous app, sorry,
+        I forgot this is only a text to test the effect of the content situation...</string>
+
+    <string name="hover_text_five">I am a boy from China, who wants to make a world famous app, sorry,
+        I forgot this is only a text to test the effect of the content situation...</string>
+
+    <string name="hover_text_six">I am a boy from China, who wants to make a world famous app, sorry,
+        I forgot this is only a text to test the effect of the content situation...</string>
+
+    <string name="hover_text_seven">I am a boy from China, who wants to make a world famous app, sorry,
+        I forgot this is only a text to test the effect of the content situation...</string>
+
+    <string name="hover_text_eight">I am a boy from China, who wants to make a world famous app, sorry,
+        I forgot this is only a text to test the effect of the content situation...</string>
+
+    <string name="hover_text_nine">I am a boy from China, who wants to make a world famous app, sorry,
+        I forgot this is only a text to test the effect of the content situation...</string>
+
+    <string name="hover_text_ten">I am a boy from China, who wants to make a world famous app, sorry,
+        I forgot this is only a text to test the effect of the content situation...</string>
+
+
 </resources>
